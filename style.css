@@ -38,3 +38,16 @@ body {
   background-color: #FF5252;
   color: white;
 }
+
+.project2 {
+  width: 80px;
+  height: 50px;
+  
+  border-radius: 0%;
+  border: none;
+  
+  display: inline-block;
+  
+  background-color: maroon;
+  color: #FF0000;
+}
